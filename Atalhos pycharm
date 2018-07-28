@@ -1,0 +1,7 @@
+ctrl+shift+f10 = executa o codigo
+ALt+f8 no modo depuração = abre o avaliador de expressão , nele podemos testar as variaveis ou algum tipo de codigo usando as mesmas depuradas.
+F8 no modo depuração = passa para proxima linha
+F7 no modo depuração = executa o corpo das funções
+F2 ''' = mostra a tela de favoritos e nela os breakp
+opção run -> view breakpoints = mostra todos os breakpoints nos codigos do projeto
+opção run -> view breakpoints -> marcar conditions e colocar a condição de uma variavel. Depois vai em Run _> resum program - para somente quando aquela opção for satisfeita

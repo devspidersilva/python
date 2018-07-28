@@ -1,0 +1,6 @@
+Nomenclaturas em python
+Variavei = começa com " _ ", letras
+funções = menisculas, se tiver mais de um nome separa por " _ "
+classes = caixa baixa, se tiver mais um novo separa com caixa alta
+constantes = todas em caixa alta
+parametros = minusculas, se for nome duplo por " _ "

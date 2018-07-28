@@ -1,0 +1,883 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="08c85a49-10f8-4a99-8445-df47b4cafef3" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="app-comerciais-kivy">
+      <favorite_root url="jar://$USER_HOME$/.virtualenvs/app-comerciais-kivy/lib/python3.5/site-packages/setuptools-39.1.0-py3.5.egg!/easy_install.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+      <favorite_root url="jar://$USER_HOME$/.virtualenvs/app-comerciais-kivy/lib/python3.5/site-packages/setuptools-39.1.0-py3.5.egg!/setuptools" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+        <favorite_root url="jar://$USER_HOME$/.virtualenvs/app-comerciais-kivy/lib/python3.5/site-packages/setuptools-39.1.0-py3.5.egg!/setuptools/extern" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="jar://$USER_HOME$/.virtualenvs/app-comerciais-kivy/lib/python3.5/site-packages/setuptools-39.1.0-py3.5.egg!/setuptools/extern/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="jar://$USER_HOME$/.virtualenvs/app-comerciais-kivy/lib/python3.5/site-packages/setuptools-39.1.0-py3.5.egg!/setuptools/_vendor" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="jar://$USER_HOME$/.virtualenvs/app-comerciais-kivy/lib/python3.5/site-packages/setuptools-39.1.0-py3.5.egg!/setuptools/_vendor/six.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="jar://$USER_HOME$/.virtualenvs/app-comerciais-kivy/lib/python3.5/site-packages/setuptools-39.1.0-py3.5.egg!/setuptools/_vendor/packaging" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="jar://$USER_HOME$/.virtualenvs/app-comerciais-kivy/lib/python3.5/site-packages/setuptools-39.1.0-py3.5.egg!/setuptools/_vendor/packaging/utils.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://$USER_HOME$/.virtualenvs/app-comerciais-kivy/lib/python3.5/site-packages/setuptools-39.1.0-py3.5.egg!/setuptools/_vendor/packaging/_compat.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://$USER_HOME$/.virtualenvs/app-comerciais-kivy/lib/python3.5/site-packages/setuptools-39.1.0-py3.5.egg!/setuptools/_vendor/packaging/markers.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://$USER_HOME$/.virtualenvs/app-comerciais-kivy/lib/python3.5/site-packages/setuptools-39.1.0-py3.5.egg!/setuptools/_vendor/packaging/version.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://$USER_HOME$/.virtualenvs/app-comerciais-kivy/lib/python3.5/site-packages/setuptools-39.1.0-py3.5.egg!/setuptools/_vendor/packaging/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://$USER_HOME$/.virtualenvs/app-comerciais-kivy/lib/python3.5/site-packages/setuptools-39.1.0-py3.5.egg!/setuptools/_vendor/packaging/__about__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://$USER_HOME$/.virtualenvs/app-comerciais-kivy/lib/python3.5/site-packages/setuptools-39.1.0-py3.5.egg!/setuptools/_vendor/packaging/specifiers.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://$USER_HOME$/.virtualenvs/app-comerciais-kivy/lib/python3.5/site-packages/setuptools-39.1.0-py3.5.egg!/setuptools/_vendor/packaging/_structures.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://$USER_HOME$/.virtualenvs/app-comerciais-kivy/lib/python3.5/site-packages/setuptools-39.1.0-py3.5.egg!/setuptools/_vendor/packaging/requirements.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          </favorite_root>
+          <favorite_root url="jar://$USER_HOME$/.virtualenvs/app-comerciais-kivy/lib/python3.5/site-packages/setuptools-39.1.0-py3.5.egg!/setuptools/_vendor/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="jar://$USER_HOME$/.virtualenvs/app-comerciais-kivy/lib/python3.5/site-packages/setuptools-39.1.0-py3.5.egg!/setuptools/_vendor/pyparsing.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="jar://$USER_HOME$/.virtualenvs/app-comerciais-kivy/lib/python3.5/site-packages/setuptools-39.1.0-py3.5.egg!/setuptools/cli.exe" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="jar://$USER_HOME$/.virtualenvs/app-comerciais-kivy/lib/python3.5/site-packages/setuptools-39.1.0-py3.5.egg!/setuptools/command" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="jar://$USER_HOME$/.virtualenvs/app-comerciais-kivy/lib/python3.5/site-packages/setuptools-39.1.0-py3.5.egg!/setuptools/command/test.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="jar://$USER_HOME$/.virtualenvs/app-comerciais-kivy/lib/python3.5/site-packages/setuptools-39.1.0-py3.5.egg!/setuptools/command/alias.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="jar://$USER_HOME$/.virtualenvs/app-comerciais-kivy/lib/python3.5/site-packages/setuptools-39.1.0-py3.5.egg!/setuptools/command/sdist.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="jar://$USER_HOME$/.virtualenvs/app-comerciais-kivy/lib/python3.5/site-packages/setuptools-39.1.0-py3.5.egg!/setuptools/command/rotate.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="jar://$USER_HOME$/.virtualenvs/app-comerciais-kivy/lib/python3.5/site-packages/setuptools-39.1.0-py3.5.egg!/setuptools/command/setopt.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="jar://$USER_HOME$/.virtualenvs/app-comerciais-kivy/lib/python3.5/site-packages/setuptools-39.1.0-py3.5.egg!/setuptools/command/upload.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="jar://$USER_HOME$/.virtualenvs/app-comerciais-kivy/lib/python3.5/site-packages/setuptools-39.1.0-py3.5.egg!/setuptools/command/develop.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="jar://$USER_HOME$/.virtualenvs/app-comerciais-kivy/lib/python3.5/site-packages/setuptools-39.1.0-py3.5.egg!/setuptools/command/install.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="jar://$USER_HOME$/.virtualenvs/app-comerciais-kivy/lib/python3.5/site-packages/setuptools-39.1.0-py3.5.egg!/setuptools/command/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="jar://$USER_HOME$/.virtualenvs/app-comerciais-kivy/lib/python3.5/site-packages/setuptools-39.1.0-py3.5.egg!/setuptools/command/build_py.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="jar://$USER_HOME$/.virtualenvs/app-comerciais-kivy/lib/python3.5/site-packages/setuptools-39.1.0-py3.5.egg!/setuptools/command/egg_info.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="jar://$USER_HOME$/.virtualenvs/app-comerciais-kivy/lib/python3.5/site-packages/setuptools-39.1.0-py3.5.egg!/setuptools/command/register.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="jar://$USER_HOME$/.virtualenvs/app-comerciais-kivy/lib/python3.5/site-packages/setuptools-39.1.0-py3.5.egg!/setuptools/command/saveopts.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="jar://$USER_HOME$/.virtualenvs/app-comerciais-kivy/lib/python3.5/site-packages/setuptools-39.1.0-py3.5.egg!/setuptools/command/bdist_egg.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="jar://$USER_HOME$/.virtualenvs/app-comerciais-kivy/lib/python3.5/site-packages/setuptools-39.1.0-py3.5.egg!/setuptools/command/bdist_rpm.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="jar://$USER_HOME$/.virtualenvs/app-comerciais-kivy/lib/python3.5/site-packages/setuptools-39.1.0-py3.5.egg!/setuptools/command/build_ext.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="jar://$USER_HOME$/.virtualenvs/app-comerciais-kivy/lib/python3.5/site-packages/setuptools-39.1.0-py3.5.egg!/setuptools/command/dist_info.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="jar://$USER_HOME$/.virtualenvs/app-comerciais-kivy/lib/python3.5/site-packages/setuptools-39.1.0-py3.5.egg!/setuptools/command/build_clib.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="jar://$USER_HOME$/.virtualenvs/app-comerciais-kivy/lib/python3.5/site-packages/setuptools-39.1.0-py3.5.egg!/setuptools/command/py36compat.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="jar://$USER_HOME$/.virtualenvs/app-comerciais-kivy/lib/python3.5/site-packages/setuptools-39.1.0-py3.5.egg!/setuptools/command/install_lib.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="jar://$USER_HOME$/.virtualenvs/app-comerciais-kivy/lib/python3.5/site-packages/setuptools-39.1.0-py3.5.egg!/setuptools/command/upload_docs.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="jar://$USER_HOME$/.virtualenvs/app-comerciais-kivy/lib/python3.5/site-packages/setuptools-39.1.0-py3.5.egg!/setuptools/command/easy_install.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="jar://$USER_HOME$/.virtualenvs/app-comerciais-kivy/lib/python3.5/site-packages/setuptools-39.1.0-py3.5.egg!/setuptools/command/bdist_wininst.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="jar://$USER_HOME$/.virtualenvs/app-comerciais-kivy/lib/python3.5/site-packages/setuptools-39.1.0-py3.5.egg!/setuptools/command/install_scripts.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="jar://$USER_HOME$/.virtualenvs/app-comerciais-kivy/lib/python3.5/site-packages/setuptools-39.1.0-py3.5.egg!/setuptools/command/install_egg_info.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="jar://$USER_HOME$/.virtualenvs/app-comerciais-kivy/lib/python3.5/site-packages/setuptools-39.1.0-py3.5.egg!/setuptools/command/launcher manifest.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="jar://$USER_HOME$/.virtualenvs/app-comerciais-kivy/lib/python3.5/site-packages/setuptools-39.1.0-py3.5.egg!/setuptools/dist.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="jar://$USER_HOME$/.virtualenvs/app-comerciais-kivy/lib/python3.5/site-packages/setuptools-39.1.0-py3.5.egg!/setuptools/glob.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="jar://$USER_HOME$/.virtualenvs/app-comerciais-kivy/lib/python3.5/site-packages/setuptools-39.1.0-py3.5.egg!/setuptools/gui.exe" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="jar://$USER_HOME$/.virtualenvs/app-comerciais-kivy/lib/python3.5/site-packages/setuptools-39.1.0-py3.5.egg!/setuptools/msvc.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="jar://$USER_HOME$/.virtualenvs/app-comerciais-kivy/lib/python3.5/site-packages/setuptools-39.1.0-py3.5.egg!/setuptools/glibc.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="jar://$USER_HOME$/.virtualenvs/app-comerciais-kivy/lib/python3.5/site-packages/setuptools-39.1.0-py3.5.egg!/setuptools/wheel.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="jar://$USER_HOME$/.virtualenvs/app-comerciais-kivy/lib/python3.5/site-packages/setuptools-39.1.0-py3.5.egg!/setuptools/config.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="jar://$USER_HOME$/.virtualenvs/app-comerciais-kivy/lib/python3.5/site-packages/setuptools-39.1.0-py3.5.egg!/setuptools/launch.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="jar://$USER_HOME$/.virtualenvs/app-comerciais-kivy/lib/python3.5/site-packages/setuptools-39.1.0-py3.5.egg!/setuptools/monkey.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="jar://$USER_HOME$/.virtualenvs/app-comerciais-kivy/lib/python3.5/site-packages/setuptools-39.1.0-py3.5.egg!/setuptools/cli-32.exe" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="jar://$USER_HOME$/.virtualenvs/app-comerciais-kivy/lib/python3.5/site-packages/setuptools-39.1.0-py3.5.egg!/setuptools/cli-64.exe" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="jar://$USER_HOME$/.virtualenvs/app-comerciais-kivy/lib/python3.5/site-packages/setuptools-39.1.0-py3.5.egg!/setuptools/depends.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="jar://$USER_HOME$/.virtualenvs/app-comerciais-kivy/lib/python3.5/site-packages/setuptools-39.1.0-py3.5.egg!/setuptools/gui-32.exe" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="jar://$USER_HOME$/.virtualenvs/app-comerciais-kivy/lib/python3.5/site-packages/setuptools-39.1.0-py3.5.egg!/setuptools/gui-64.exe" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="jar://$USER_HOME$/.virtualenvs/app-comerciais-kivy/lib/python3.5/site-packages/setuptools-39.1.0-py3.5.egg!/setuptools/sandbox.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="jar://$USER_HOME$/.virtualenvs/app-comerciais-kivy/lib/python3.5/site-packages/setuptools-39.1.0-py3.5.egg!/setuptools/version.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="jar://$USER_HOME$/.virtualenvs/app-comerciais-kivy/lib/python3.5/site-packages/setuptools-39.1.0-py3.5.egg!/setuptools/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="jar://$USER_HOME$/.virtualenvs/app-comerciais-kivy/lib/python3.5/site-packages/setuptools-39.1.0-py3.5.egg!/setuptools/dep_util.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="jar://$USER_HOME$/.virtualenvs/app-comerciais-kivy/lib/python3.5/site-packages/setuptools-39.1.0-py3.5.egg!/setuptools/script.tmpl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="jar://$USER_HOME$/.virtualenvs/app-comerciais-kivy/lib/python3.5/site-packages/setuptools-39.1.0-py3.5.egg!/setuptools/extension.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="jar://$USER_HOME$/.virtualenvs/app-comerciais-kivy/lib/python3.5/site-packages/setuptools-39.1.0-py3.5.egg!/setuptools/build_meta.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="jar://$USER_HOME$/.virtualenvs/app-comerciais-kivy/lib/python3.5/site-packages/setuptools-39.1.0-py3.5.egg!/setuptools/lib2to3_ex.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="jar://$USER_HOME$/.virtualenvs/app-comerciais-kivy/lib/python3.5/site-packages/setuptools-39.1.0-py3.5.egg!/setuptools/namespaces.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="jar://$USER_HOME$/.virtualenvs/app-comerciais-kivy/lib/python3.5/site-packages/setuptools-39.1.0-py3.5.egg!/setuptools/pep425tags.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="jar://$USER_HOME$/.virtualenvs/app-comerciais-kivy/lib/python3.5/site-packages/setuptools-39.1.0-py3.5.egg!/setuptools/py27compat.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="jar://$USER_HOME$/.virtualenvs/app-comerciais-kivy/lib/python3.5/site-packages/setuptools-39.1.0-py3.5.egg!/setuptools/py31compat.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="jar://$USER_HOME$/.virtualenvs/app-comerciais-kivy/lib/python3.5/site-packages/setuptools-39.1.0-py3.5.egg!/setuptools/py33compat.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="jar://$USER_HOME$/.virtualenvs/app-comerciais-kivy/lib/python3.5/site-packages/setuptools-39.1.0-py3.5.egg!/setuptools/py36compat.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="jar://$USER_HOME$/.virtualenvs/app-comerciais-kivy/lib/python3.5/site-packages/setuptools-39.1.0-py3.5.egg!/setuptools/site-patch.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="jar://$USER_HOME$/.virtualenvs/app-comerciais-kivy/lib/python3.5/site-packages/setuptools-39.1.0-py3.5.egg!/setuptools/ssl_support.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="jar://$USER_HOME$/.virtualenvs/app-comerciais-kivy/lib/python3.5/site-packages/setuptools-39.1.0-py3.5.egg!/setuptools/archive_util.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="jar://$USER_HOME$/.virtualenvs/app-comerciais-kivy/lib/python3.5/site-packages/setuptools-39.1.0-py3.5.egg!/setuptools/package_index.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="jar://$USER_HOME$/.virtualenvs/app-comerciais-kivy/lib/python3.5/site-packages/setuptools-39.1.0-py3.5.egg!/setuptools/unicode_utils.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="jar://$USER_HOME$/.virtualenvs/app-comerciais-kivy/lib/python3.5/site-packages/setuptools-39.1.0-py3.5.egg!/setuptools/script (dev).tmpl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="jar://$USER_HOME$/.virtualenvs/app-comerciais-kivy/lib/python3.5/site-packages/setuptools-39.1.0-py3.5.egg!/setuptools/windows_support.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+      </favorite_root>
+    </favorites_list>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="07.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aulas/03 - tomada de decisao I/atividade/07.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="08.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aulas/03 - tomada de decisao I/atividade/08.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="09.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aulas/03 - tomada de decisao I/atividade/09.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="10.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/aulas/03 - tomada de decisao I/atividade/10.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/aulas/aula1.py" />
+        <option value="$PROJECT_DIR$/teste/teste.py" />
+        <option value="$PROJECT_DIR$/aulas/Comentarios.py" />
+        <option value="$PROJECT_DIR$/aulas/aula02 - Identacao.py" />
+        <option value="$PROJECT_DIR$/aulas/aula 03 - variavei I.py" />
+        <option value="$PROJECT_DIR$/aulas/aula 04 - variavei II.py" />
+        <option value="$PROJECT_DIR$/aulas/aula 05 - nomenclatura.py" />
+        <option value="$PROJECT_DIR$/aulas/aula 06 - manipulacao de dados.py" />
+        <option value="$PROJECT_DIR$/aulas/aula 07 - ponto flutuante.py" />
+        <option value="$PROJECT_DIR$/aulas/aula 08 - Entrada de dados.py" />
+        <option value="$PROJECT_DIR$/aulas/aula 09 -Operacoes matematicas.py" />
+        <option value="$PROJECT_DIR$/aulas/aula 10 -modulo da divisao.py" />
+        <option value="$PROJECT_DIR$/aulas/aula 11- potencia e radiacao.py" />
+        <option value="$PROJECT_DIR$/aulas/aula 12 - operadores relacionais.py" />
+        <option value="$PROJECT_DIR$/aulas/atividades 01/questão 01.py" />
+        <option value="$PROJECT_DIR$/aulas/atividades 01/questão 02.py" />
+        <option value="$PROJECT_DIR$/aulas/atividades 01/questão 03.py" />
+        <option value="$PROJECT_DIR$/aulas/atividades 01/questão 04.py" />
+        <option value="$PROJECT_DIR$/aulas/atividades 01/questão 05.py" />
+        <option value="$PROJECT_DIR$/aulas/atividades 01/questão 06.py" />
+        <option value="$PROJECT_DIR$/aulas/atividades 01/questão 07.py" />
+        <option value="$PROJECT_DIR$/aulas/atividades 01/questão 08.py" />
+        <option value="$PROJECT_DIR$/aulas/atividades 01/questão 09.py" />
+        <option value="$PROJECT_DIR$/aulas/atividades 01/questão 10.py" />
+        <option value="$PROJECT_DIR$/aulas/atividades 01/questão 11.py" />
+        <option value="$PROJECT_DIR$/aulas/atividades 01/questão 12.py" />
+        <option value="$PROJECT_DIR$/aulas/atividades 01/questão 13.py" />
+        <option value="$PROJECT_DIR$/aulas/atividades 01/questão 14.py" />
+        <option value="$PROJECT_DIR$/aulas/01 - Conceitos deprogramacao python/atividades 01/questão 14.py" />
+        <option value="$PROJECT_DIR$/aulas/01 - Conceitos deprogramacao python/atividades 01/questão 13.py" />
+        <option value="$PROJECT_DIR$/teste/text.yml" />
+        <option value="$PROJECT_DIR$/aulas/02 - pycharm/depuracao 02.py" />
+        <option value="$PROJECT_DIR$/aulas/02 - pycharm/depuracao 03.py" />
+        <option value="$PROJECT_DIR$/aulas/02 - pycharm/estudo.py" />
+        <option value="$PROJECT_DIR$/aulas/02 - pycharm/atalhos.txt" />
+        <option value="$PROJECT_DIR$/aulas/03 - tomada de decisao I/01-if-teste.py" />
+        <option value="$PROJECT_DIR$/aulas/03 - tomada de decisao I/02 - tomada de decisao 02.py" />
+        <option value="$PROJECT_DIR$/aulas/03 - tomada de decisao I/03- operadores relacionais compostos.py" />
+        <option value="$PROJECT_DIR$/aulas/03 - tomada de decisao I/03 - revisao.py" />
+        <option value="$PROJECT_DIR$/aulas/03 - tomada de decisao I/operadores_logicos.py" />
+        <option value="$PROJECT_DIR$/aulas/03 - tomada de decisao I/05-blocos_de_instrucao.py" />
+        <option value="$PROJECT_DIR$/aulas/03 - tomada de decisao I/atividade/01.py" />
+        <option value="$PROJECT_DIR$/aulas/03 - tomada de decisao I/atividade/2.py" />
+        <option value="$PROJECT_DIR$/aulas/03 - tomada de decisao I/atividade/03.py" />
+        <option value="$PROJECT_DIR$/aulas/03 - tomada de decisao I/atividade/04.py" />
+        <option value="$PROJECT_DIR$/aulas/03 - tomada de decisao I/atividade/05.py" />
+        <option value="$PROJECT_DIR$/aulas/03 - tomada de decisao I/atividade/06.py" />
+        <option value="$PROJECT_DIR$/aulas/03 - tomada de decisao I/atividade/07.py" />
+        <option value="$PROJECT_DIR$/aulas/03 - tomada de decisao I/atividade/08.py" />
+        <option value="$PROJECT_DIR$/aulas/03 - tomada de decisao I/atividade/09.py" />
+        <option value="$PROJECT_DIR$/aulas/03 - tomada de decisao I/atividade/10.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="19" />
+    <option name="width" value="1340" />
+    <option name="height" value="599" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="app-comerciais-kivy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="app-comerciais-kivy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="app-comerciais-kivy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="app-comerciais-kivy" type="462c0819:PsiDirectoryNode" />
+              <item name="aulas" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="app-comerciais-kivy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="app-comerciais-kivy" type="462c0819:PsiDirectoryNode" />
+              <item name="aulas" type="462c0819:PsiDirectoryNode" />
+              <item name="03 - tomada de decisao I" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="app-comerciais-kivy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="app-comerciais-kivy" type="462c0819:PsiDirectoryNode" />
+              <item name="aulas" type="462c0819:PsiDirectoryNode" />
+              <item name="03 - tomada de decisao I" type="462c0819:PsiDirectoryNode" />
+              <item name="atividade" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="app-comerciais-kivy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="app-comerciais-kivy" type="462c0819:PsiDirectoryNode" />
+              <item name="teste" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="app-comerciais-kivy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="TODO_SCOPE" value="Project Files" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/aulas/03 - tomada de decisao I/atividade" />
+      <recent name="$PROJECT_DIR$/aulas/03 - tomada de decisao I" />
+      <recent name="$PROJECT_DIR$/aulas/02 - pycharm" />
+      <recent name="$PROJECT_DIR$/aulas/atividades 01" />
+      <recent name="$PROJECT_DIR$/aulas" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/aulas/01 - Conceitos deprogramacao python" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.10">
+    <configuration name="05" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="app-comerciais-kivy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas/03 - tomada de decisao I/atividade" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/03 - tomada de decisao I/atividade/05.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="07" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="app-comerciais-kivy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas/03 - tomada de decisao I/atividade" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/03 - tomada de decisao I/atividade/07.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="08" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="app-comerciais-kivy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas/03 - tomada de decisao I/atividade" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/03 - tomada de decisao I/atividade/08.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="09" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="app-comerciais-kivy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas/03 - tomada de decisao I/atividade" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/03 - tomada de decisao I/atividade/09.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="10" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="app-comerciais-kivy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas/03 - tomada de decisao I/atividade" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/03 - tomada de decisao I/atividade/10.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python">
+      <module name="app-comerciais-kivy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/.virtualenvs/k35/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas/01 - Conceitos deprogramacao python/atividades 01" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/01 - Conceitos deprogramacao python/atividades 01/questão 13.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Unnamed" />
+      <item itemvalue="Python.05" />
+      <item itemvalue="Python.07" />
+      <item itemvalue="Python.08" />
+      <item itemvalue="Python.09" />
+      <item itemvalue="Python.10" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.10" />
+        <item itemvalue="Python.09" />
+        <item itemvalue="Python.08" />
+        <item itemvalue="Python.07" />
+        <item itemvalue="Python.05" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="08c85a49-10f8-4a99-8445-df47b4cafef3" name="Default" comment="" />
+      <created>1530220143123</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1530220143123</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <flatten-packages value="true" />
+      <is-preview-enabled value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-3" y="0" width="1366" height="641" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="5" weight="0.14591439" />
+      <window_info id="DB Browser" order="2" />
+      <window_info anchor="bottom" id="DB Execution Console" order="6" />
+      <window_info anchor="bottom" id="Regex Tester" order="6" weight="0.32879376" />
+      <window_info anchor="bottom" id="Event Log" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="8" weight="0.32879376" />
+      <window_info anchor="right" auto_hide="true" id="Run" order="3" weight="0.32648402" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32879376" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49416342" visible="true" weight="0.26560122" />
+      <window_info id="Structure" order="1" sideWeight="0.5009311" side_tool="true" weight="0.24457741" />
+      <window_info id="Favorites" order="2" sideWeight="0.50583655" side_tool="true" visible="true" weight="0.26560122" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.39883268" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <condition expression="n == 50" language="Python" />
+          <url>file://$PROJECT_DIR$/aulas/02 - pycharm/depuracao 03.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/aulas/02 - pycharm/estudo.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="7" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="n" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>n == 50</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="watch">
+      <expression>
+        <expression-string>n</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>b</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/aulas/01 - Conceitos deprogramacao python/aula02 - Identacao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aulas/01 - Conceitos deprogramacao python/aula 03 - variavei I.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aulas/01 - Conceitos deprogramacao python/aula 04 - variavei II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="11" lean-forward="true" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aulas/01 - Conceitos deprogramacao python/aula 05 - nomenclatura.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aulas/01 - Conceitos deprogramacao python/aula 06 - manipulacao de dados.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="54" selection-start-line="6" selection-start-column="54" selection-end-line="6" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aulas/01 - Conceitos deprogramacao python/aula 07 - ponto flutuante.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aulas/01 - Conceitos deprogramacao python/aula 08 - Entrada de dados.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aulas/01 - Conceitos deprogramacao python/aula 09 -Operacoes matematicas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aulas/01 - Conceitos deprogramacao python/aula 10 -modulo da divisao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="27" lean-forward="true" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aulas/01 - Conceitos deprogramacao python/aula 12 - operadores relacionais.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aulas/01 - Conceitos deprogramacao python/aula 11- potencia e radiacao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aulas/01 - Conceitos deprogramacao python/atividades 01/questão 01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aulas/01 - Conceitos deprogramacao python/atividades 01/questão 02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aulas/01 - Conceitos deprogramacao python/atividades 01/questão 03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aulas/01 - Conceitos deprogramacao python/atividades 01/questão 04.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aulas/01 - Conceitos deprogramacao python/atividades 01/questão 05.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="36" lean-forward="true" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aulas/01 - Conceitos deprogramacao python/atividades 01/questão 06.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aulas/01 - Conceitos deprogramacao python/atividades 01/questão 07.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aulas/01 - Conceitos deprogramacao python/atividades 01/questão 08.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="30" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aulas/01 - Conceitos deprogramacao python/atividades 01/questão 09.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aulas/01 - Conceitos deprogramacao python/atividades 01/questão 10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="27" lean-forward="true" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aulas/01 - Conceitos deprogramacao python/atividades 01/questão 11.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aulas/01 - Conceitos deprogramacao python/atividades 01/questão 12.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aulas/01 - Conceitos deprogramacao python/__init__.py" />
+    <entry file="jar://$USER_HOME$/.virtualenvs/app-comerciais-kivy/lib/python3.5/site-packages/setuptools-39.1.0-py3.5.egg!/easy_install.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aulas/01 - Conceitos deprogramacao python/atividades 01/questão 14.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teste/text.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aulas/01 - Conceitos deprogramacao python/atividades 01/questão 13.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aulas/02 - pycharm/depuracao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aulas/02 - pycharm/depuracao 02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="1067" selection-start-line="1067" selection-end-line="1067" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aulas/02 - pycharm/estudo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aulas/02 - pycharm/depuracao 03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aulas/02 - pycharm/atalhos.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="46" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aulas/03 - tomada de decisao I/01-if-teste.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aulas/03 - tomada de decisao I/02 - tomada de decisao 02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aulas/03 - tomada de decisao I/03- operadores relacionais compostos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aulas/03 - tomada de decisao I/atividade/2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aulas/03 - tomada de decisao I/atividade/03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aulas/03 - tomada de decisao I/atividade/01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aulas/03 - tomada de decisao I/05-blocos_de_instrucao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aulas/03 - tomada de decisao I/04-operadores_logicos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aulas/03 - tomada de decisao I/03 - revisao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="68" lean-forward="true" selection-start-line="17" selection-start-column="68" selection-end-line="17" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aulas/03 - tomada de decisao I/atividade/04.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aulas/03 - tomada de decisao I/atividade/05.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="27" lean-forward="true" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aulas/03 - tomada de decisao I/atividade/06.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aulas/03 - tomada de decisao I/atividade/07.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aulas/03 - tomada de decisao I/atividade/08.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aulas/03 - tomada de decisao I/atividade/09.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aulas/03 - tomada de decisao I/atividade/10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="regexState">
+    <option name="map">
+      <map>
+        <entry key="flags" value="0" />
+        <entry key="mode" value="0" />
+        <entry key="regex" value="(19||20)\d\d([- /.])(0[1-9]||1[012])\2(0[1-9]||[12][0-9]||3[01])" />
+        <entry key="text" value="1900-01-01 2007/08/13 1900.01.01 1900 01 01 1900-01.01 1900 13 01 1900 02 31" />
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,5 @@
+Comandos curso python udemy
+ * lsvirtaulenv = listar todos os ambientes virtuais intsalados na maquina
+ workon "nome do ambiente" = ativa o ambiente virtual
+ * deactivate = desativa o ambiente
+
